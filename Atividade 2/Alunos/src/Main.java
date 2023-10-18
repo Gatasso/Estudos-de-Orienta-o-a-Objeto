@@ -1,3 +1,6 @@
+import galasso.dev.Aluno;
+import galasso.dev.Sistema;
+
 import java.util.Scanner;
 
 public class Main {
@@ -7,7 +10,7 @@ public class Main {
         Aluno aluno001 = new Aluno();
             aluno001.setIdade(21);
             aluno001.setMatricula("001");
-            aluno001.setNota1(10);
+            aluno001.setNota1(0);
             aluno001.setNota2(5);
             aluno001.setNota3(7);
         Sistema.initialMenu();

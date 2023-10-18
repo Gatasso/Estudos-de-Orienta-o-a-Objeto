@@ -1,6 +1,8 @@
+package galasso.dev;
+
 public class Aluno {
     //declaração de atributos
-    private String nome, resultado,matricula;
+    private String nome,matricula;
     private double  nota1, nota2, nota3, media;
     private int idade, totalNotas;
 /********************************************************************/

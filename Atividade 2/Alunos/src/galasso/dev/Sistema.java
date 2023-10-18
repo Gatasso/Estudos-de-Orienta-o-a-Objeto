@@ -1,3 +1,5 @@
+package galasso.dev;
+
 public class Sistema {
     public static void initialMenu() {
         System.out.println("""
