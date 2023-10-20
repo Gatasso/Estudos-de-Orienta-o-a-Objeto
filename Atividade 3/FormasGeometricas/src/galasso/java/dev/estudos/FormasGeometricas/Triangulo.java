@@ -18,7 +18,6 @@ public class Triangulo extends Figura{
         calculaArea();
         calculaPerimetro();
         System.out.printf("A área desse triângulo é de: %scm²%n", this.area);
-        System.out.printf("O perímetro desse retângulo é de:%scm%n", this.perimetro);
     }
 /*******************************************************************************************/
 //declarando getters & setters
